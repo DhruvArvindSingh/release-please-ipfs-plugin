@@ -1,0 +1,4 @@
+./src/plugin.ts
+./src/readme-updater.ts
+./src/index.ts
+./.aegir.js
